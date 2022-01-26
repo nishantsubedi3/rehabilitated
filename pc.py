@@ -432,7 +432,7 @@ def loadConfig():
             + Fore.RESET
             + getString("register_warning"))
 
-        username = "Nitinkumar"
+        username = "chiafia"
 
         if xxhash_enabled:
             print(
@@ -468,7 +468,7 @@ def loadConfig():
 
         requested_diff = "2"
         
-        rig_identiier = "Hello123"
+        rig_identiier = "Don122"
 
         
 

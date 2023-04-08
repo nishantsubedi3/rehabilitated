@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The MovSer God</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>MOVIES AND SERIES</description>
+	<lastBuildDate>Sat, 08 Apr 2023 12:19:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Avatar: The Way Of Water</title>
+		<link>/2023/04/08/avatar-the-way-of-water/</link>
+					<comments>/2023/04/08/avatar-the-way-of-water/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 08 Apr 2023 07:46:56 +0000</pubDate>
+				<category><![CDATA[Movie]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[1080p]]></description>
+										<content:encoded><![CDATA[
+<p class="has-x-large-font-size"><strong>1080p</strong></p>
+
+
+					<div style="width: 100%;padding-bottom: 56.25%;position: relative;" class="" >
+					<div id="bradmax-player-64315c777284e" style="position: absolute;top: 0; bottom: 0; left: 0; right: 0;"></div>
+				</div>
+	<script type="text/javascript">
+		function bradmaxPlayerInit_64315c777284e() {
+			var bradmaxPlayerConfig_64315c777284e = {"dataProvider":{"source":[{"url":"https:\/\/t-ca-2.24hoursuptodatecdn.net\/_v10\/8db9371661b8973f384ed23cda52c2c6376cb9e89640efb9e5fbe13eb02382007e96ba8006c317b2f0e8db77eb08be5375e585a11b650a560d89cbcb0311ae5176f24b3e01bb631e074030ece69bc4ce6467dc0a5da3eac24a6a9bd916683c2a0dd883150f7bfedd9c3697e16b20badf676ea49a332832b90a91fe4ef6a188e2\/1080\/index.m3u8"}]}};
+			var element = document.getElementById("bradmax-player-64315c777284e");
+			var player = window.bradmax.player.create(element, bradmaxPlayerConfig_64315c777284e);
+			// Back compability.
+			if(!window.player) {
+				window.player = player;
+			}
+		}
+		if(window.bradmax && window.bradmax.player) {
+			bradmaxPlayerInit_64315c777284e();
+		} else {
+			window.addEventListener('load', bradmaxPlayerInit_64315c777284e);
+		}
+	</script>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/04/08/avatar-the-way-of-water/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
